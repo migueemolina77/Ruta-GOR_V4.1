@@ -5,3 +5,5 @@ streamlit-folium
 requests
 openpyxl
 ortools
+gspread
+google-auth
